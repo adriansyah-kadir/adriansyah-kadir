@@ -4,4 +4,4 @@
 # Hi! :wave:
 <p>I'm Adriansyah</p>
 <img src="https://github-readme-stats.vercel.app/api?username=adriansyah-kadir&show_icons=true&count_private=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriansyah-kadir&hide=TeX&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriansyah-kadir&hide=TeX&layout=compact&theme=dark"/>
